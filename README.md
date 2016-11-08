@@ -46,8 +46,7 @@ Related Advisors: `Wen Xue`, `Cheng Li`, `Xiaole Shirley Liu`, `Yong Zhang`.
 Joint-PhD under China Scholarship Council.  
 Advisor: `Wen Xue`, `Zhiping Weng`.  
 Related Advisors: `Guangping Gao`, `Daniel G. Anderson`.  
-
-*:  
+  
 `Cheng Li`:	Principal investigator. School of Life Sciences, Peking University. PRC.  
 `Xiaole Shirley Liu`:	Professor. Biostatistics and Computational Biology, Dana-Farber and Harvard. US.  
 `Yong Zhang`:	Professor. School of Life Science, Tongji University. PRC.  
